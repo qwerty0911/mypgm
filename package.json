@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@abandonware/bleno": "^0.5.1-4",
+    "@jefflloyd/noble": "^1.9.4",
+    "@ycanince/bleno": "^0.5.1-13",
+    "mcp-spi-adc": "^3.2.0",
+    "network": "^0.6.1",
+    "node-dht-sensor": "^0.4.3",
+    "pigpio": "^3.3.1",
+    "raspberrypi-liquid-crystal": "^1.18.0",
+    "socket.io": "^4.5.1"
+  }
+}
